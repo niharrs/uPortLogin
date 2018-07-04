@@ -18,7 +18,7 @@ Say what the step will be
 
 ```
 1. $ npm install
-2. $ npm run build
+2. $ npm run start
 ```
 
 ### Reference
